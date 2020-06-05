@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "1e3744180c012720122cdd07a1260447",
+        "name": "out461.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out461.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CFPo5Z7-n",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 30.306122448979593,
+                "width": 33.05595408895265,
+                "left": 945.767575322812,
+                "top": 521.71875
+            },
+            "points": [
+                {
+                    "x": 945.767575322812,
+                    "y": 521.71875
+                },
+                {
+                    "x": 978.8235294117648,
+                    "y": 521.71875
+                },
+                {
+                    "x": 978.8235294117648,
+                    "y": 552.0248724489796
+                },
+                {
+                    "x": 945.767575322812,
+                    "y": 552.0248724489796
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "ddca5203ea02a8f9bd0299d3aae97c1d",
+        "name": "out314.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out314.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Gal2_1eoo",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 262.6530612244898,
+                "width": 197.41750358680056,
+                "left": 1141.3486370157818,
+                "top": 481.3105867346939
+            },
+            "points": [
+                {
+                    "x": 1141.3486370157818,
+                    "y": 481.3105867346939
+                },
+                {
+                    "x": 1338.7661406025825,
+                    "y": 481.3105867346939
+                },
+                {
+                    "x": 1338.7661406025825,
+                    "y": 743.9636479591837
+                },
+                {
+                    "x": 1141.3486370157818,
+                    "y": 743.9636479591837
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "538770ed8577bf09b6376ca58cc5555c",
+        "name": "out123.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out123.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "u_h1R64az",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 99.18367346938776,
+                "width": 60.6025824964132,
+                "left": 903.5294117647059,
+                "top": 502.4330357142857
+            },
+            "points": [
+                {
+                    "x": 903.5294117647059,
+                    "y": 502.4330357142857
+                },
+                {
+                    "x": 964.1319942611191,
+                    "y": 502.4330357142857
+                },
+                {
+                    "x": 964.1319942611191,
+                    "y": 601.6167091836735
+                },
+                {
+                    "x": 903.5294117647059,
+                    "y": 601.6167091836735
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

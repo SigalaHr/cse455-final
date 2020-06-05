@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "633e4887a7861ce44affe2a239f97ead",
+        "name": "out681.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out681.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wpXbBDoq7",
+            "type": "RECTANGLE",
+            "tags": [
+                "Enemy"
+            ],
+            "boundingBox": {
+                "height": 232.3469387755102,
+                "width": 129.46915351506456,
+                "left": 471.04734576757534,
+                "top": 459.26977040816325
+            },
+            "points": [
+                {
+                    "x": 471.04734576757534,
+                    "y": 459.26977040816325
+                },
+                {
+                    "x": 600.5164992826399,
+                    "y": 459.26977040816325
+                },
+                {
+                    "x": 600.5164992826399,
+                    "y": 691.6167091836735
+                },
+                {
+                    "x": 471.04734576757534,
+                    "y": 691.6167091836735
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

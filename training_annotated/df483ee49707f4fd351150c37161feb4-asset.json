@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "df483ee49707f4fd351150c37161feb4",
+        "name": "out448.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out448.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BTVolNOyc",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 34.89795918367347,
+                "width": 22.037302725968438,
+                "left": 943.9311334289813,
+                "top": 510.6983418367347
+            },
+            "points": [
+                {
+                    "x": 943.9311334289813,
+                    "y": 510.6983418367347
+                },
+                {
+                    "x": 965.9684361549498,
+                    "y": 510.6983418367347
+                },
+                {
+                    "x": 965.9684361549498,
+                    "y": 545.5963010204082
+                },
+                {
+                    "x": 943.9311334289813,
+                    "y": 545.5963010204082
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "083bd47360d8ed098f92c4e910b2544a",
+        "name": "out444.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out444.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AnAS-vnb9",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 31.22448979591837,
+                "width": 25.710186513629843,
+                "left": 956.7862266857962,
+                "top": 511.6167091836735
+            },
+            "points": [
+                {
+                    "x": 956.7862266857962,
+                    "y": 511.6167091836735
+                },
+                {
+                    "x": 982.4964131994261,
+                    "y": 511.6167091836735
+                },
+                {
+                    "x": 982.4964131994261,
+                    "y": 542.8411989795918
+                },
+                {
+                    "x": 956.7862266857962,
+                    "y": 542.8411989795918
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

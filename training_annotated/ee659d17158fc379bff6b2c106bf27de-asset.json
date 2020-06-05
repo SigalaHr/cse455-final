@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "ee659d17158fc379bff6b2c106bf27de",
+        "name": "out380.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out380.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "noy_URB57",
+            "type": "RECTANGLE",
+            "tags": [
+                "EnemyWithNameOverlay"
+            ],
+            "boundingBox": {
+                "height": 566.6326530612245,
+                "width": 232.30989956958393,
+                "left": 729.067431850789,
+                "top": 463.86160714285717
+            },
+            "points": [
+                {
+                    "x": 729.067431850789,
+                    "y": 463.86160714285717
+                },
+                {
+                    "x": 961.377331420373,
+                    "y": 463.86160714285717
+                },
+                {
+                    "x": 961.377331420373,
+                    "y": 1030.4942602040817
+                },
+                {
+                    "x": 729.067431850789,
+                    "y": 1030.4942602040817
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

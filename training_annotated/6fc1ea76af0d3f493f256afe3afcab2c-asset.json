@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "6fc1ea76af0d3f493f256afe3afcab2c",
+        "name": "out708.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out708.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ORSISH_up",
+            "type": "RECTANGLE",
+            "tags": [
+                "Enemy"
+            ],
+            "boundingBox": {
+                "height": 221.3265306122449,
+                "width": 123.95982783357245,
+                "left": 778.651362984218,
+                "top": 766.0044642857143
+            },
+            "points": [
+                {
+                    "x": 778.651362984218,
+                    "y": 766.0044642857143
+                },
+                {
+                    "x": 902.6111908177905,
+                    "y": 766.0044642857143
+                },
+                {
+                    "x": 902.6111908177905,
+                    "y": 987.3309948979592
+                },
+                {
+                    "x": 778.651362984218,
+                    "y": 987.3309948979592
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

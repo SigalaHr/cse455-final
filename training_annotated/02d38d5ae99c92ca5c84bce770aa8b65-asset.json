@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "02d38d5ae99c92ca5c84bce770aa8b65",
+        "name": "out529.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out529.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PcluS2-61",
+            "type": "RECTANGLE",
+            "tags": [
+                "Enemy"
+            ],
+            "boundingBox": {
+                "height": 481.2244897959184,
+                "width": 280.9756097560976,
+                "left": 993.5150645624103,
+                "top": 513.4534438775511
+            },
+            "points": [
+                {
+                    "x": 993.5150645624103,
+                    "y": 513.4534438775511
+                },
+                {
+                    "x": 1274.490674318508,
+                    "y": 513.4534438775511
+                },
+                {
+                    "x": 1274.490674318508,
+                    "y": 994.6779336734694
+                },
+                {
+                    "x": 993.5150645624103,
+                    "y": 994.6779336734694
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

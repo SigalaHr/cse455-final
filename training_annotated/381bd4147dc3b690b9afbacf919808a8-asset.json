@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "381bd4147dc3b690b9afbacf919808a8",
+        "name": "out398.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out398.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NkFT-F9CZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 231.42857142857144,
+                "width": 253.42898134863702,
+                "left": 33.05595408895265,
+                "top": 463.86160714285717
+            },
+            "points": [
+                {
+                    "x": 33.05595408895265,
+                    "y": 463.86160714285717
+                },
+                {
+                    "x": 286.4849354375897,
+                    "y": 463.86160714285717
+                },
+                {
+                    "x": 286.4849354375897,
+                    "y": 695.2901785714286
+                },
+                {
+                    "x": 33.05595408895265,
+                    "y": 695.2901785714286
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

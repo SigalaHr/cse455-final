@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "b2772461914459eedf326e0f7a7ed50c",
+        "name": "out451.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out451.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CIKoBBtto",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 34.89795918367347,
+                "width": 30.3012912482066,
+                "left": 946.6857962697273,
+                "top": 535.4942602040817
+            },
+            "points": [
+                {
+                    "x": 946.6857962697273,
+                    "y": 535.4942602040817
+                },
+                {
+                    "x": 976.987087517934,
+                    "y": 535.4942602040817
+                },
+                {
+                    "x": 976.987087517934,
+                    "y": 570.3922193877551
+                },
+                {
+                    "x": 946.6857962697273,
+                    "y": 570.3922193877551
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

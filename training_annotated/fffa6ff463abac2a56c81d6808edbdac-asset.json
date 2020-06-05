@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "fffa6ff463abac2a56c81d6808edbdac",
+        "name": "out720.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out720.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "334fZo0ER",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 240.6122448979592,
+                "width": 114.77761836441894,
+                "left": 0,
+                "top": 475.80038265306126
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 475.80038265306126
+                },
+                {
+                    "x": 114.77761836441894,
+                    "y": 475.80038265306126
+                },
+                {
+                    "x": 114.77761836441894,
+                    "y": 716.4126275510205
+                },
+                {
+                    "x": 0,
+                    "y": 716.4126275510205
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

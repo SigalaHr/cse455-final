@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "217ceaaea87ceb25523576511a2ee495",
+        "name": "out939.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out939.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HFFz0f4Ie",
+            "type": "RECTANGLE",
+            "tags": [
+                "Enemy"
+            ],
+            "boundingBox": {
+                "height": 191.9387755102041,
+                "width": 112.02295552367288,
+                "left": 179.9713055954089,
+                "top": 502.4330357142857
+            },
+            "points": [
+                {
+                    "x": 179.9713055954089,
+                    "y": 502.4330357142857
+                },
+                {
+                    "x": 291.9942611190818,
+                    "y": 502.4330357142857
+                },
+                {
+                    "x": 291.9942611190818,
+                    "y": 694.3718112244898
+                },
+                {
+                    "x": 179.9713055954089,
+                    "y": 694.3718112244898
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

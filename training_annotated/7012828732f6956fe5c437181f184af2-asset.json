@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "7012828732f6956fe5c437181f184af2",
+        "name": "out703.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out703.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TMtGARZvr",
+            "type": "RECTANGLE",
+            "tags": [
+                "Enemy"
+            ],
+            "boundingBox": {
+                "height": 93.5873724489796,
+                "width": 154.26111908177904,
+                "left": 469.2109038737446,
+                "top": 986.4126275510205
+            },
+            "points": [
+                {
+                    "x": 469.2109038737446,
+                    "y": 986.4126275510205
+                },
+                {
+                    "x": 623.4720229555237,
+                    "y": 986.4126275510205
+                },
+                {
+                    "x": 623.4720229555237,
+                    "y": 1080
+                },
+                {
+                    "x": 469.2109038737446,
+                    "y": 1080
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

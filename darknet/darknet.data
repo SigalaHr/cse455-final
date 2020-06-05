@@ -1,0 +1,5 @@
+classes = 1
+train  = /path/to/snowman/snowman_train.txt
+valid  = /path/to/snowman/snowman_test.txt
+names = /path/to/snowman/classes.names
+backup = /path/to/snowman/weights/

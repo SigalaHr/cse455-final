@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "3cc8ee6d043575f02a4dd96f2fcc4b4a",
+        "name": "out938.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out938.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WeZkouZha",
+            "type": "RECTANGLE",
+            "tags": [
+                "Enemy"
+            ],
+            "boundingBox": {
+                "height": 191.0204081632653,
+                "width": 108.35007173601147,
+                "left": 180.88952654232423,
+                "top": 501.5146683673469
+            },
+            "points": [
+                {
+                    "x": 180.88952654232423,
+                    "y": 501.5146683673469
+                },
+                {
+                    "x": 289.23959827833573,
+                    "y": 501.5146683673469
+                },
+                {
+                    "x": 289.23959827833573,
+                    "y": 692.5350765306123
+                },
+                {
+                    "x": 180.88952654232423,
+                    "y": 692.5350765306123
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

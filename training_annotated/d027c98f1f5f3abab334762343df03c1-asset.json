@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "d027c98f1f5f3abab334762343df03c1",
+        "name": "out807.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out807.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UlsoU40GF",
+            "type": "RECTANGLE",
+            "tags": [
+                "Enemy"
+            ],
+            "boundingBox": {
+                "height": 342.55102040816325,
+                "width": 157.0157819225251,
+                "left": 970.5595408895265,
+                "top": 481.3105867346939
+            },
+            "points": [
+                {
+                    "x": 970.5595408895265,
+                    "y": 481.3105867346939
+                },
+                {
+                    "x": 1127.5753228120516,
+                    "y": 481.3105867346939
+                },
+                {
+                    "x": 1127.5753228120516,
+                    "y": 823.8616071428571
+                },
+                {
+                    "x": 970.5595408895265,
+                    "y": 823.8616071428571
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

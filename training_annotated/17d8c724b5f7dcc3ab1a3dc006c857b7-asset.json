@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "17d8c724b5f7dcc3ab1a3dc006c857b7",
+        "name": "out259.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out259.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SIyrOMdMn",
+            "type": "RECTANGLE",
+            "tags": [
+                "Enemy"
+            ],
+            "boundingBox": {
+                "height": 38.57142857142857,
+                "width": 17.446197991391678,
+                "left": 932.9124820659971,
+                "top": 523.5554846938776
+            },
+            "points": [
+                {
+                    "x": 932.9124820659971,
+                    "y": 523.5554846938776
+                },
+                {
+                    "x": 950.3586800573888,
+                    "y": 523.5554846938776
+                },
+                {
+                    "x": 950.3586800573888,
+                    "y": 562.1269132653061
+                },
+                {
+                    "x": 932.9124820659971,
+                    "y": 562.1269132653061
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "a162c09256d6289472149032c90ef5bb",
+        "name": "out403.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out403.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RCInGEoLi",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 209.3877551020408,
+                "width": 160.6886657101865,
+                "left": 1021.0616929698708,
+                "top": 500.5963010204082
+            },
+            "points": [
+                {
+                    "x": 1021.0616929698708,
+                    "y": 500.5963010204082
+                },
+                {
+                    "x": 1181.7503586800574,
+                    "y": 500.5963010204082
+                },
+                {
+                    "x": 1181.7503586800574,
+                    "y": 709.984056122449
+                },
+                {
+                    "x": 1021.0616929698708,
+                    "y": 709.984056122449
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

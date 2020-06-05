@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "299a404da8f489b1a6d9118719c25a04",
+        "name": "out882.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out882.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WvQ5HwhiQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "EnemyWithNameOverlay"
+            ],
+            "boundingBox": {
+                "height": 130.40816326530611,
+                "width": 33.05595408895265,
+                "left": 986.1692969870875,
+                "top": 515.2901785714286
+            },
+            "points": [
+                {
+                    "x": 986.1692969870875,
+                    "y": 515.2901785714286
+                },
+                {
+                    "x": 1019.2252510760402,
+                    "y": 515.2901785714286
+                },
+                {
+                    "x": 1019.2252510760402,
+                    "y": 645.6983418367347
+                },
+                {
+                    "x": 986.1692969870875,
+                    "y": 645.6983418367347
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

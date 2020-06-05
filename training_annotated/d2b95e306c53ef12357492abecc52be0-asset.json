@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "d2b95e306c53ef12357492abecc52be0",
+        "name": "out420.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out420.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nvmaCntco",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 651.0363520408164,
+                "width": 325.05021520803444,
+                "left": 0,
+                "top": 428.9636479591837
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 428.9636479591837
+                },
+                {
+                    "x": 325.05021520803444,
+                    "y": 428.9636479591837
+                },
+                {
+                    "x": 325.05021520803444,
+                    "y": 1080
+                },
+                {
+                    "x": 0,
+                    "y": 1080
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

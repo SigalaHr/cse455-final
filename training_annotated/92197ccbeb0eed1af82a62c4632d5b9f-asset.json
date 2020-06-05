@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "92197ccbeb0eed1af82a62c4632d5b9f",
+        "name": "out476.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out476.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SOnbaesRc",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 102.85714285714286,
+                "width": 66.1119081779053,
+                "left": 930.157819225251,
+                "top": 542.8411989795918
+            },
+            "points": [
+                {
+                    "x": 930.157819225251,
+                    "y": 542.8411989795918
+                },
+                {
+                    "x": 996.2697274031564,
+                    "y": 542.8411989795918
+                },
+                {
+                    "x": 996.2697274031564,
+                    "y": 645.6983418367347
+                },
+                {
+                    "x": 930.157819225251,
+                    "y": 645.6983418367347
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

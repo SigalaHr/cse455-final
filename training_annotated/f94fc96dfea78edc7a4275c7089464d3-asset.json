@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "f94fc96dfea78edc7a4275c7089464d3",
+        "name": "out485.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out485.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ynQpG_tK0",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 143.26530612244898,
+                "width": 81.72166427546628,
+                "left": 924.648493543759,
+                "top": 511.6167091836735
+            },
+            "points": [
+                {
+                    "x": 924.648493543759,
+                    "y": 511.6167091836735
+                },
+                {
+                    "x": 1006.3701578192253,
+                    "y": 511.6167091836735
+                },
+                {
+                    "x": 1006.3701578192253,
+                    "y": 654.8820153061224
+                },
+                {
+                    "x": 924.648493543759,
+                    "y": 654.8820153061224
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

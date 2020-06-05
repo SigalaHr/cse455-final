@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "8a217f4eb6434738f3bfaf4d74b19bd2",
+        "name": "out776.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out776.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "V8Vb-TIVX",
+            "type": "RECTANGLE",
+            "tags": [
+                "Enemy"
+            ],
+            "boundingBox": {
+                "height": 192.85714285714286,
+                "width": 104.67718794835007,
+                "left": 744.67718794835,
+                "top": 517.1269132653061
+            },
+            "points": [
+                {
+                    "x": 744.67718794835,
+                    "y": 517.1269132653061
+                },
+                {
+                    "x": 849.3543758967002,
+                    "y": 517.1269132653061
+                },
+                {
+                    "x": 849.3543758967002,
+                    "y": 709.984056122449
+                },
+                {
+                    "x": 744.67718794835,
+                    "y": 709.984056122449
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

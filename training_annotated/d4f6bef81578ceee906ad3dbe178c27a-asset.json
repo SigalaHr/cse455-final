@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "d4f6bef81578ceee906ad3dbe178c27a",
+        "name": "out310.png",
+        "path": "file:C:/Users/Justin%20McGowen/Documents/CompVis/images/out310.png",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hIE-1mSiL",
+            "type": "RECTANGLE",
+            "tags": [
+                "Friendly"
+            ],
+            "boundingBox": {
+                "height": 364.5918367346939,
+                "width": 292.91248206599715,
+                "left": 1009.1248206599713,
+                "top": 431.71875
+            },
+            "points": [
+                {
+                    "x": 1009.1248206599713,
+                    "y": 431.71875
+                },
+                {
+                    "x": 1302.0373027259684,
+                    "y": 431.71875
+                },
+                {
+                    "x": 1302.0373027259684,
+                    "y": 796.3105867346939
+                },
+                {
+                    "x": 1009.1248206599713,
+                    "y": 796.3105867346939
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
