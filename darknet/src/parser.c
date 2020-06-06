@@ -906,6 +906,7 @@ list *read_cfg(char *filename)
                 current->options = make_list();
                 current->type = line;
                 break;
+            case '\r':
             case '\0':
             case '#':
             case ';':

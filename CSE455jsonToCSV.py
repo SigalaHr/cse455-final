@@ -81,11 +81,11 @@ def convert_annotations(annotation_folder_path, train_annotation_path, test_anno
                             except:
                                 pass
         
-convert_annotations("C:/Users/Justin McGowen/Documents/CompVis/training_annotated",
-                    "C:/Users/Justin McGowen/Documents/CompVis/test-annotations-bbox.csv",
-                    "C:/Users/Justin McGowen/Documents/CompVis/validation-annotations-bbox.csv",
-                    "C:/Users/Justin McGowen/Documents/CompVis/train_list.txt",
-                    "C:/Users/Justin McGowen/Documents/CompVis/test_list.txt",
-                    "C:/Users/Justin McGowen/Documents/CompVis/images",
-                    "C:/Users/Justin McGowen/Documents/CompVis/classes.txt",                    
+convert_annotations("./training_annotated",
+                    "./train-annotations-bbox.csv",
+                    "./test-annotations-bbox.csv",
+                    "./train_list.txt",
+                    "./test_list.txt",
+                    "/mnt/c/Users/Sigala/Desktop/UW/final/images",
+                    "./classes.txt",                    
                     .1)
