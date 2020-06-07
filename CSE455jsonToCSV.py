@@ -86,6 +86,6 @@ convert_annotations("./training_annotated",
                     "./test-annotations-bbox.csv",
                     "./train_list.txt",
                     "./test_list.txt",
-                    "/mnt/c/Users/Sigala/Desktop/UW/final/images",
+                    "/homes/iws/sigalahr/cse455/final/images",
                     "./classes.txt",                    
                     .1)
